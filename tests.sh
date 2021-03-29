@@ -1,0 +1,1 @@
+seq 5000000 | parallel -n0 -j4 "curl -s http://127.0.0.1:8000"

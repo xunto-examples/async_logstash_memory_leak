@@ -1,0 +1,1 @@
+mprof run --multiprocess python manage.py runserver

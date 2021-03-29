@@ -1,0 +1,4 @@
+/mprofile_*.dat
+/queue.db
+/queue.db-journal
+.idea
