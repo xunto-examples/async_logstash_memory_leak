@@ -1,0 +1,3 @@
+Django
+python-logstash-async
+memory-profiler

@@ -1,3 +1,4 @@
+venv
 /mprofile_*.dat
 /queue.db
 /queue.db-journal
